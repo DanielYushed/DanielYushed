@@ -168,6 +168,4 @@ If you have any questions about web development, writing mistake-free documentat
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://raw.githubusercontent.com/DanielYushed/DanielYushed/output/snake.svg" alt="Snake animation" />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
