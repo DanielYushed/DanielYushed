@@ -143,7 +143,7 @@ me.say_hi()
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:danielyushed14@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:daniel_yrv@hotmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
