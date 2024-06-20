@@ -114,7 +114,7 @@ me.say_hi()
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://costaricamakers.com/wp-content/uploads/2020/01/ros-logo.png" />
+      <img width="30px" src="https://tknika.eus/wp-content/uploads/2022/10/ros-150x103.png" />
       <img width="30px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
       <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
