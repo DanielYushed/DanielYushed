@@ -114,9 +114,9 @@ me.say_hi()
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="40px" src="https://tknika.eus/wp-content/uploads/2022/10/ros-150x103.png" />
-      <img width="40px" src="https://classic.gazebosim.org/assets/gazebo_vert-a…a54e98766979e45e011ea22347ffe90580458476d26d6.png" />
-      <img width="40px" src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" />
+      <img width="40px" src="https://tknika.eus/wp-content/uploads/2022/10/ros-150x103.png"/>
+      <img width="30px" src="https://classic.gazebosim.org/assets/gazebo_vert-a…a54e98766979e45e011ea22347ffe90580458476d26d6.png"/>
+      <img width="30px" src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" />
       <img width="30px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
       <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
