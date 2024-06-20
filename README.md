@@ -19,7 +19,7 @@
       <img height="200" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Electronic+instrumentation+engineer;Confident+and+ambitious" alt="Typing SVG" /></a>
   </div>
 </div>
 
